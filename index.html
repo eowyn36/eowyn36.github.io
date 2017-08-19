@@ -4,21 +4,21 @@ title: Home
 ---
 
 <div class="catalogue">
-  {% for post in paginator.posts %}
-    <a href="{{ post.url | prepend: site.url }}" class="catalogue-item">
+  {% for page in site.pages %}
+    <a href="{{ page.url | prepend: site.url }}" class="catalogue-item">
       <div>
-        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
-        <h1 class="catalogue-title">{{ post.title }}</h1>
+        <h1 class="catalogue-title">{{ page.title }}</h1>
         <div class="catalogue-line"></div>
 
         <p>
-          {{ post.content | truncatewords: 30 | strip_html }}
+          {{ page.content | truncatewords: 30 | strip_html }}
         </p>
 
       </div>
     </a>
   {% endfor %}
 </div>
+
 
 <div class="pagination">
   {% if paginator.previous_page %}
@@ -29,10 +29,4 @@ title: Home
   {% endif %}
 
   <span>{{ paginator.page }}</span>
-</div>
-
-<div class="collection-test">
-  {% for page in site.pages %}
-    <h2>{{ page.title }}</h2>
-  {% endfor %}
 </div>
