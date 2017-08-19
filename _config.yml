@@ -2,10 +2,10 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Nilay Karaoglu
 paginate:       5
 baseurl:        ""
-url:            "https://chesterhow.github.io/tale"
+url:            "https://eowyn36.github.io/"
 
 # Assets
 sass:
@@ -17,14 +17,14 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Nilay Karaoglu
+  url:          https://eowyn36.github.io/
+  email:        nilaya@kth.se
 
 # Custom vars
-version:        3.4.1
+version:        1
 github:
-  repo:         https://github.com/chesterhow/tale
+  repo:         https://github.com/eowyn36/eowyn36.github.io
 
 # Gems
 gems:
