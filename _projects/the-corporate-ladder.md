@@ -4,10 +4,30 @@ title: "The Corporate Ladder"
 author: "Nilay Karaoglu"
 ---
 
-Hornswaggle measured fer yer chains chase run a shot across the bow Chain Shot flogging Pirate Round galleon rope's end aft. Prow fire in the hole keel rum Barbary Coast bilge water crimp interloper square-rigged Letter of Marque. Interloper Arr barkadeer mutiny snow chantey crow's nest flogging gun Davy Jones' Locker.
+The Corporate Ladder is a third person click & point sandbox with puzzles. Developed as Computer Game Design course project at KTH.
 
-Bilge jolly boat barque topsail interloper chandler spanker scuttle Arr sloop. Shrouds belaying pin run a shot across the bow loaded to the gunwalls smartly marooned hogshead handsomely list parley. Spyglass keel Privateer mizzenmast hulk ballast case shot clipper main sheet killick.
+The game is set in an office and the player is allowed to freely manipulate the environment in minor ways, such as relocating and activating office paraphernalia and other employees (NPCs).
 
-Careen hempen halter Letter of Marque pillage swing the lead take a caulk Sail ho jury mast walk the plank ho. Haul wind Privateer flogging Letter of Marque scuppers heave down to go on account keel Jack Ketch grapple. Marooned pink lee crow's nest chase Pirate Round boom scourge of the seven seas landlubber or just lubber deadlights.
+Puzzles are hinted through in-game cues but are not compulsory. However, the puzzles, which consists of a given series of actions that must be performed, will reward the player in the form of promotions and by creating an amusing effect on the local game world.
 
-[Pirate Ipsum](http://pirateipsum.me/)
+| D | README |
+| ------ | ------ |
+| Date | November 2015 - January 2017 |
+| Course | DH2650 Computer Game Design |
+| Team | Alexander Lingtorp, Dan Hemgren, Ewoud Van der Heide, Jonathan Adam, Nilay Karaoglu, Rodrigo Roa Rodríguez |
+| Tools | Unreal Engine, Blender, Maya |
+| My Role | Gameplay development and modelling of furniture in Maya  |
+
+| ------ | ------ |
+| Date | November 2015 - January 2017 |
+| Course | DH2650 Computer Game Design |
+| Team | Alexander Lingtorp, Dan Hemgren, Ewoud Van der Heide, Jonathan Adam, Nilay Karaoglu, Rodrigo Roa Rodríguez |
+| Tools | Unreal Engine, Blender, Maya |
+| My Role | Gameplay development and modelling of furniture in Maya  |
+
+
+| Date | November 2015 - January 2017 |
+| Course | DH2650 Computer Game Design |
+| Team | Alexander Lingtorp, Dan Hemgren, Ewoud Van der Heide, Jonathan Adam, Nilay Karaoglu, Rodrigo Roa Rodríguez |
+| Tools | Unreal Engine, Blender, Maya |
+| My Role | Gameplay development and modelling of furniture in Maya  |
