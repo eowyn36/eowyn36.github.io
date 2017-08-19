@@ -33,4 +33,14 @@
   a:hover {
     text-decoration: underline;
   }
+
+  .project-table {
+    padding: 1em 0;
+
+    tr td:first-child {
+      white-space: nowrap;
+      padding-right: 4em;
+      font-weight: 600;
+    }
+  }
 }

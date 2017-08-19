@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "Volumentric Rendering"
+title: "Volumetric Rendering in Unreal Engine Using a Raymarch Algorithm"
 author: "Nilay Karaoglu"
 ---
