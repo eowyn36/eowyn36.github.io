@@ -18,6 +18,12 @@ title: Home
       </div>
     </a>
   {% endfor %}
+
+  {% for page in paginator.pages %}
+    <h2>{{ page.title }}</h2>
+  {% endfor %}
+
+
 </div>
 
 <div class="pagination">
