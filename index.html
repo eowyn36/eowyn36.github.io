@@ -18,12 +18,6 @@ title: Home
       </div>
     </a>
   {% endfor %}
-
-  {% for page in paginator.pages %}
-    <h2>{{ page.title }}</h2>
-  {% endfor %}
-
-
 </div>
 
 <div class="pagination">
@@ -35,4 +29,10 @@ title: Home
   {% endif %}
 
   <span>{{ paginator.page }}</span>
+</div>
+
+<div class="collection-test">
+  {% for page in site.pages %}
+    <h2>{{ page.title }}</h2>
+  {% endfor %}
 </div>
