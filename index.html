@@ -4,14 +4,14 @@ title: Home
 ---
 
 <div class="catalogue">
-  {% for page in site.pages %}
-    <a href="{{ page.url | prepend: site.url }}" class="catalogue-item">
+  {% for project in site.projects %}
+    <a href="{{ project.url | prepend: site.url }}" class="catalogue-item">
       <div>
-        <h1 class="catalogue-title">{{ page.title }}</h1>
+        <h1 class="catalogue-title">{{ project.title }}</h1>
         <div class="catalogue-line"></div>
 
         <p>
-          {{ page.content | truncatewords: 30 | strip_html }}
+          {{ project.content | truncatewords: 30 | strip_html }}
         </p>
 
       </div>
