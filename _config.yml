@@ -32,4 +32,5 @@ gems:
 
 # Define data collections
 collections:
-  - pages
+  pages:
+    permalink:  /:collection/:path/
