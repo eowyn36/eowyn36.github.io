@@ -4,7 +4,7 @@ title: "The Corporate Ladder"
 author: "Nilay Karaoglu"
 ---
 
-The Corporate Ladder is a third person click & point sandbox with puzzles. Developed as Computer Game Design course project at KTH.
+The Corporate Ladder is a third person click & point sandbox puzzle game. Developed as Computer Game Design course project at KTH.
 
 The game is set in an office and the player is allowed to freely manipulate the environment in minor ways, such as relocating and activating office paraphernalia and other employees (NPCs).
 
