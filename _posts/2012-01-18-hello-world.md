@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World!
-category: corporate-ladder
+category: the-corporate-ladder
 ---
 
 This is just a sample post.

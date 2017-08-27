@@ -19,7 +19,7 @@ layout: default
 
 </div>
 
-{% for post in site.categories.corporate-ladder %}
+{% for post in site.categories.[page.cat] %}
   <article>
     <h2>{{ post.title }}</h2>
     <p>{{ post.content }}</p>
