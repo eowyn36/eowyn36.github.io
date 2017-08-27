@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Example Content"
 author: "Nilay Karaoglu"
 ---
