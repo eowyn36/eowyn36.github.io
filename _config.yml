@@ -35,3 +35,9 @@ collections:
   projects:
     output:     true
     permalink:  /:collection/:path/
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
