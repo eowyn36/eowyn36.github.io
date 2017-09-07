@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dev Blog \# 4 – Hello Blueprints
+title: 'Dev Blog #4 – Hello Blueprints'
 category: the-corporate-ladder
 ---
 

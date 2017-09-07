@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dev Blog \#1 – What is Corporate Ladder ?
+title: 'Dev Blog #1 – What is Corporate Ladder ?'
 category: the-corporate-ladder
 ---
 

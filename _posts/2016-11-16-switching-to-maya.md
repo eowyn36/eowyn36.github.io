@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dev Blog \# 3 – Switching to Maya
+title: 'Dev Blog #3 – Switching to Maya'
 category: the-corporate-ladder
 ---
 

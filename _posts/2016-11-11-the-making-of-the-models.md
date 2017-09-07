@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dev Blog \# 2 – The Making of the Models
+title: 'Dev Blog #2 – The Making of the Models'
 category: the-corporate-ladder
 ---
 

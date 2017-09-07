@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dev Blog \#5 – The First Look
+title: 'Dev Blog #5 – The First Look'
 category: the-corporate-ladder
 ---
 

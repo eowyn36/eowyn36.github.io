@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dev Blog \# 6 – The Printer
+title: 'Dev Blog #6 – The Printer'
 category: the-corporate-ladder
 ---
 
