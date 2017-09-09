@@ -44,3 +44,22 @@
     }
   }
 }
+
+.dev-blog {
+  &-title {
+    text-align: center;
+    margin-bottom: 0;
+  }
+
+  article {
+    iframe, img {
+      display: block;
+      margin: 0 auto 1rem;
+      max-width: 100%;
+    }
+  }
+
+  .post-line {
+    border-top-width: 0.2rem;
+  }
+}
