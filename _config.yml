@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Nilay Karaoglu
 paginate:       5
 baseurl:        ""
-url:            "https://eowyn36.github.io/"
+url:            "http://nilayk.se/"
 
 # Assets
 sass:
@@ -18,7 +18,7 @@ markdown:       kramdown
 # About
 author:
   name:         Nilay Karaoglu
-  url:          https://eowyn36.github.io/
+  url:          "http://nilayk.se/"
   email:        nilaya@kth.se
 
 # Custom vars
