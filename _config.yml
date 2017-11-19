@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Nilay Karaoglu
 paginate:       5
 baseurl:        ""
-url:            "http://nilayk.se/"
+url:            "http://nilayk.se"
 
 # Assets
 sass:
@@ -18,7 +18,7 @@ markdown:       kramdown
 # About
 author:
   name:         Nilay Karaoglu
-  url:          "http://nilayk.se/"
+  url:          "http://nilayk.se"
   email:        nilaya@kth.se
 
 # Custom vars
