@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div class="catalogue">
+<div class="catalogue clearfix">
   {% for project in site.projects %}
     <a href="{{ project.url | prepend: site.url }}" class="catalogue-item">
       <div>
@@ -18,7 +18,7 @@ title: Home
     </a>
   {% endfor %}
 </div>
-
+<!--
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.url }}" class="left arrow">&#8592;</a>
@@ -28,4 +28,4 @@ title: Home
   {% endif %}
 
   <span>{{ paginator.page }}</span>
-</div>
+</div> -->

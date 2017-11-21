@@ -1,7 +1,10 @@
 * {
   @include box-sizing;
 }
-
+.clearfix:before,
+.clearfix:after { content: " ";  display: table; }
+.clearfix:after { clear: both; }
+.clearfix { *zoom: 1; }
 html,
 body {
   color: $default-color;
@@ -80,4 +83,8 @@ td {
 
 .text-center {
   text-align: center;
+}
+
+.nav-description {
+  font-size: 0.9em;
 }
