@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Nilay Karaoglu
 paginate:       5
-baseurl:        ""
+baseurl:        "http://nilayk.se"
 url:            "http://nilayk.se"
 
 # Assets
