@@ -8,4 +8,4 @@ After learning that one of my teammates have experience in Autodesk Maya and sin
 
 So I re-modeled everything in Maya.
 
-{% include image.html name="maya-models.png" caption="Models made in Maya" %}
+{% include image.html path=page.category name="maya-models.png" caption="Models made in Maya" %}
