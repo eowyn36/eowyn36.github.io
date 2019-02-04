@@ -26,8 +26,8 @@ version:        1
 github:
   repo:         https://github.com/eowyn36/eowyn36.github.io
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-paginate
 
 # Define data collections
