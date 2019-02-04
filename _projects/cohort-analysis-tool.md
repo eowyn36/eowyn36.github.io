@@ -3,6 +3,7 @@ layout: project
 title: "Cohort Analysis Tool (CAT)"
 author: "Nilay Karaoglu"
 cat: "cohort-analysis-tool"
+tags: vis
 ---
 
 CAT is a web-based visualization tool that shows the data of prostate cancer patients in Sweden. This project was made in collaboration with KI (Karolinska Institutet) and Janssen J&J to help them better understand their demographic by giving them the tools to create cohorts and find their own correlations and relationships.

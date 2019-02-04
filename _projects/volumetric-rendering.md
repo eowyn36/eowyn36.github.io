@@ -2,6 +2,7 @@
 layout: project
 title: "Volumetric Rendering Using a Raymarch Algorithm"
 author: "Nilay Karaoglu"
+tags: ue
 ---
 
 Project consist of implementation of ray marcher algorithm to perform volumetric rendering of clouds in the Unreal Engine. Pseudo volume textures, which are texture slices stored as a 2d array of frames, are used for the clouds. The implemented ray caster samples the density at every step. As well as calculating for incoming light and scattering light (adding shadows and lighting).

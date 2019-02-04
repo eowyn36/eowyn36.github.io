@@ -3,15 +3,21 @@ layout: default
 title: Home
 ---
 
+
+<div class="tags clearfix">
+  <div class="tag-btn" id="vis">Visualization</div>
+  <div class="tag-btn" id="ue">Unreal Engine</div>
+</div>
+
 <div class="catalogue clearfix">
   {% for project in site.projects %}
-    <a href="{{ project.url }}" class="catalogue-item">
+    <a href="{{ project.url }}" title="{{ project.title }}" class="catalogue-item {{ project.tags | join:' ' }}">
       <div>
         <h1 class="catalogue-title">{{ project.title }}</h1>
         <div class="catalogue-line"></div>
 
         <p>
-          {{ project.content | truncate: 250 | strip_html }}
+          {{ project.content | truncate: 230 | strip_html }}
         </p>
 
       </div>

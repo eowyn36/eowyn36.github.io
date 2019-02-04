@@ -2,6 +2,7 @@
 layout: project
 title: "AI: Motion Models and Path Planning"
 author: "Nilay Karaoglu"
+tags: ue
 ---
 
 Path planning allows autonomous mobile vehicles or robots to find a feasible path between two points. In this project Kinodynamic RTT* is implemented as a path planner. Additionally, six motions models are implemented independently of the path planner. The project is implemented in Unreal Engine with C++.

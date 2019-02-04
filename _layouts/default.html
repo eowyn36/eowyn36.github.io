@@ -17,17 +17,13 @@
           <li><a class="icon fa-linkedin" href="https://linkedin.com/in/nilayka">LinkedIn</a></li>
           <li><a class="icon fa-github" href="https://github.com/eowyn36">GitHub</a></li>
         </ul>
-    </div>
-  </nav>
+      </div>
+    </nav>
 
     <main>
       {{ content }}
     </main>
-
-    <footer>
-      <span>
-        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}.
-      </span>
-    </footer>
+    
+    {% include foot.html %}
   </body>
 </html>
