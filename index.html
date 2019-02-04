@@ -11,7 +11,7 @@ title: Home
         <div class="catalogue-line"></div>
 
         <p>
-          {{ project.content | truncatewords: 30 | strip_html }}
+          {{ project.content | truncate: 250 | strip_html }}
         </p>
 
       </div>

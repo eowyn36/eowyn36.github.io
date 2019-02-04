@@ -5,7 +5,7 @@ author: "Nilay Karaoglu"
 cat: "cohort-analysis-tool"
 ---
 
-Prostate Cancer is one of the leading causes of death in men around the world. This project was made in collaboration with KI (Karolinska Institutet) and Janssen J&J (supervised by Mario Romero at KTH). We developed a tool that visualizes their database of prostate cancer patients in Sweden. The project was meant to help them better understand their demographic by giving them the tools to create cohorts and find their own correlations and relationships.
+CAT is a web-based visualization tool that shows the data of prostate cancer patients in Sweden. This project was made in collaboration with KI (Karolinska Institutet) and Janssen J&J to help them better understand their demographic by giving them the tools to create cohorts and find their own correlations and relationships.
 
 Check out the tool on [CAT](https://raghunayyar.github.io/IVI17).
 
