@@ -13,7 +13,7 @@ Check out the tool on [CAT](https://raghunayyar.github.io/IVI17).
 {:.project-table}
 | Date | February 2017 - April 2017 |
 | Course | DH2321 Information Visualization |
-| Team | Niek Bijman, Julia Creutz, Tomas Albrecht, Nilay Karaoglu, Raghu Nayyar, Mai-Khanh Lê, Filip Gustafsson, Dani Mataruga |
+| Team | 8 People |
 | Tools | d3.js |
 | My Role | I was one of the three people in the development team. |
 

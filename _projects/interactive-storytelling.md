@@ -9,7 +9,7 @@ The project explores possibilities of storytelling and speech interaction by mak
 {:.project-table}
 | Date | November 2016 - January 2017 |
 | Course | DT2140 Multimodal Interaction and Interfaces |
-| Team | Carl Törnqvist, Lon Hannson, Niek Bijman, Nilay Karaoglu |
+| Team | 4 People |
 | Tools | Phaser, Google Web Speech API |
 | My Role | I worked on the visual parts and animations in Phaser |
 

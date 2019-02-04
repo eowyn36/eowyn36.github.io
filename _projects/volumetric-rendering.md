@@ -10,7 +10,7 @@ Project consist of implementation of ray marcher algorithm to perform volumetric
 {:.project-table}
 | Date | April 2017 - May 2017 |
 | Course | DH2323 Computer Graphics and Interaction |
-| Team | Dani Mataruga, Mai-Khanh Lê, Nilay Karaoglu |
+| Team | 3 People |
 | Tools | Unreal Engine |
 | My Role | Programming the volumetric clouds  |
 

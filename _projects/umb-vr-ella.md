@@ -15,7 +15,7 @@ We have also showcased at [Mission IX](http://beta.missionix.com/).
 {:.project-table}
 | Date | September 2017 - October 2017 |
 | Course | DH2413 Advanced Graphics and Interaction |
-| Team | Dani Mataruga, Mai-Khanh Lê, Nilay Karaoglu, Raghu Nayyar, Per Jaakonantti |
+| Team | 5 People |
 | Tools | Unreal Engine, Oculus Rift |
 | My Role | Gameplay Programming, Implementation of Interactions for Objects, Project Management |
 

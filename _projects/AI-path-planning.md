@@ -10,7 +10,7 @@ Path planning allows autonomous mobile vehicles or robots to find a feasible pat
 {:.project-table}
 | Date | April 2017 - May 2017 |
 | Course | DH2438 Artificial Intelligence and Multi-Agent Systems |
-| Team | Dani Mataruga, Mai-Khanh Lê, Nilay Karaoglu |
+| Team | 3 People |
 | Tools | Unreal Engine |
 | My Role | Programming the volumetric clouds  |
 
