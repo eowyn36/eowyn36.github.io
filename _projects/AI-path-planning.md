@@ -10,7 +10,7 @@ logo: ai1.png
 Path planning allows autonomous mobile vehicles or robots to find a feasible path between two points. In this project Kinodynamic RRT* is implemented as a path planner. Additionally, six motions models are implemented independently of the path planner. The project is implemented in Unreal Engine with C++.
 
 {:.project-table}
-| Date | April 2017 - May 2017 ??? |
+| Date | March 2017 |
 | Course | DH2438 Artificial Intelligence and Multi-Agent Systems |
 | Team | 3 People |
 | Tools | Unreal Engine |
