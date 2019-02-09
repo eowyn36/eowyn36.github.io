@@ -3,18 +3,17 @@ layout: project
 title: "AI: Coordination and Collaboration"
 author: "Nilay Karaoglu"
 tags: ue
-summary: Implementation of path planning algorithm Kinodynamic RRT* in Unreal Engine using C++ with 6 motion models.
-logo: ai1.png
+summary: Optimal guard positioning and POI covering implementation with RRT* and K-Means Clustering in Unreal Engine using C++.
+logo: ai2.png
 ---
 
-Path planning allows autonomous mobile vehicles or robots to find a feasible path between two points. In this project Kinodynamic RRT* is implemented as a path planner. Additionally, six motions models are implemented independently of the path planner. The project is implemented in Unreal Engine with C++.
+Finding optimal positions to place the guards, path planing to cover point of interests and formation keeping are multi-agent problems with real-life applications. In this project three methods, sometimes used in combination, are used to give solutions to these problems. These methods use set cover algorithm, greedy algorithm, k-cluster and Kinodynamic RTT* implemented in Unreal Engine with C++.
+
 
 {:.project-table}
-| Date | April 2017 - May 2017 ??? |
+| Date | May 2017 |
 | Course | DH2438 Artificial Intelligence and Multi-Agent Systems |
-| Team | 3 People |
+| Team | 2 People |
 | Tools | Unreal Engine |
 | My Role | Programming the volumetric clouds ??? |
 
-Below is the maze and the feasiable path taken for each motion model:
-{% include image.html name="ai/ai-motion.png" %}
