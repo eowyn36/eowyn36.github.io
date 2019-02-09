@@ -13,7 +13,21 @@
     p {
       text-align: justify;
     }
+
+    div {
+      max-height: 100%
+    }
   }
+
+  &-img {
+    height: 270px;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+    }
+  }
+
 
   &-time {
     color: $default-tint;
@@ -23,7 +37,7 @@
   &-title {
     color: $default-shade;
     display: block;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 700;
     margin: .5rem 0;
   }
@@ -39,15 +53,10 @@
 @media (min-width: 600px) {
   .catalogue {
     &-item {
-      width: 48%;
+      width: 31%;
+      height: 500px;
       float: left;
       margin: 0 1%;
-    }
-
-    &-title {
-      white-space: nowrap;
-      text-overflow: ellipsis;
-      overflow: hidden;
     }
   }
 }

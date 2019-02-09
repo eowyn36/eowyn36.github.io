@@ -10,7 +10,7 @@ My first decision was to make the models in Blender since it is free. After watc
 
 At the end of my first day of modelling, I created; a desk, a chair, a small bin, a computer with screen, keyboard and mouse.
 
-{% include image.html name="blender-models.png" caption="Models made in Blender" %}
+{% include image.html path=page.category name="blender-models.png" caption="Models made in Blender" %}
 
 I really liked making models, though working with small edges and vertices can be challenging. The decision to make the models with low level detail definitely helped me time-wise.
 

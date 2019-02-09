@@ -1,8 +1,10 @@
 ---
 layout: project
-title: "Umb-vr-ella"
+title: "Umb-VR-ella"
 author: "Nilay Karaoglu"
 tags: ue
+logo: umb.png
+summary: Umb-vr-ella is a VR game implemented in Unreal Engine and played on a Oculus Rift headset with a phone as controller.
 ---
 
 Umb-vr-ella is a virtual reality game where an umbrella is your only help during free fall. You need to collect coins, use boosters and avoid bombs to survive.

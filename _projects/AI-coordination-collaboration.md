@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "AI: Motion Models and Path Planning"
+title: "AI: Coordination and Collaboration"
 author: "Nilay Karaoglu"
 tags: ue
 summary: Implementation of path planning algorithm Kinodynamic RRT* in Unreal Engine using C++ with 6 motion models.
