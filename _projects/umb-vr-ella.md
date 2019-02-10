@@ -2,7 +2,7 @@
 layout: project
 title: "Umb-VR-ella"
 author: "Nilay Karaoglu"
-tags: ue
+tags: ue gd
 logo: umb.png
 summary: Umb-vr-ella is a VR game implemented in Unreal Engine and played on a Oculus Rift headset with a phone as controller.
 ---
