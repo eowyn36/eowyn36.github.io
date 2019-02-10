@@ -2,7 +2,7 @@
 layout: project
 title: "AI: Coordination and Collaboration"
 author: "Nilay Karaoglu"
-tags: ue
+tags: ue ai cpp
 summary: Optimal guard positioning and POI covering implementation with RRT* and K-Means Clustering in Unreal Engine using C++.
 logo: ai2.png
 ---

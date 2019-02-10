@@ -3,7 +3,7 @@ layout: project
 title: "The Corporate Ladder"
 author: "Nilay Karaoglu"
 cat: "the-corporate-ladder"
-tags: ue
+tags: ue gd
 logo: cl.png
 summary: The Corporate Ladder is a third person click & point sandbox puzzle game implemented using Unreal Engine.
 ---
