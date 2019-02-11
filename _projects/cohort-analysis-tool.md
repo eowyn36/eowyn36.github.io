@@ -12,6 +12,8 @@ CAT is a web-based visualization tool that shows the data of prostate cancer pat
 
 Check out the tool on [Cohort Analysis Tool](https://raghunayyar.github.io/IVI17).
 
+The project consists of 3 teams: Designer team of 3 people, User Experience team of 2 people and Development team of 3 people. 
+
 {:.project-table}
 | Date | February 2017 - April 2017 |
 | Course | DH2321 Information Visualization |
