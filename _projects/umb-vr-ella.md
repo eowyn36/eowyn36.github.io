@@ -12,7 +12,9 @@ Umb-vr-ella is a virtual reality game where an umbrella is your only help during
 The game is implemented in Unreal Engine and played on a Oculus Rift headset. The player uses a physical umbrella and the movement of the physical umbrella is mapped to ingame movement of the character via a phone that is attached to the umbrella.
 
 We have showcased the game at [ForskarFredag](https://forskarfredag.se/stockholm/) to high school students.
-We have also showcased at [Mission IX](http://beta.missionix.com/).
+We have also showcased at [Mission IX](https://missionix.com/).
+
+You can see photos of people playing and additional information about responsibilities at [our webpage](https://umb-vr-ela.github.io/web/umbvrella/)
 
 {:.project-table}
 | Date | September 2017 - October 2017 |
@@ -20,6 +22,7 @@ We have also showcased at [Mission IX](http://beta.missionix.com/).
 | Team | 5 People |
 | Tools | Unreal Engine, Oculus Rift |
 | My Role | Gameplay Programming, Implementation of Interactions for Objects, Project Management |
+
 
 <div class="text-center">
 <iframe width="640" height="480" src="https://www.youtube.com/embed/ASJZEnsFPt8?rel=0" frameborder="0" allowfullscreen></iframe>
