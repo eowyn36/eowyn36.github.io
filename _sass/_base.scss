@@ -8,6 +8,7 @@
 html,
 body {
   color: $default-color;
+  background-color: $dark-grey;
   margin: 0;
   padding: 0;
 }
@@ -88,6 +89,13 @@ td {
   font-size: 0.9em;
 }
 
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
 
 .hide {
   display: none !important;
