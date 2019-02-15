@@ -21,7 +21,7 @@ You can see photos of people playing and additional information about responsibi
 | Course | DH2413 Advanced Graphics and Interaction |
 | Team | 5 People |
 | Tools | Unreal Engine, Oculus Rift |
-| My Role | Gameplay Programming, Implementation of Interactions for Objects, Project Management |
+| My Role | Implementation of the interactable objects; plusses that increases the player's point, bombs that decreases the player's healt, rings that alters the player movement. Functionality to change the game levels if the criterias are fulfilled. Additionally, helped with mapping the phone movement to ingame umbrealla/character movement. Volumetric clouds and landscape that changes texture according to the heigh has also been implemented, however was removed later on due to low FPS issues. |
 
 
 <div class="text-center">
