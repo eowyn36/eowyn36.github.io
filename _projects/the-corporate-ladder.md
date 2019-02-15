@@ -19,6 +19,6 @@ Puzzles are hinted through in-game cues but are not compulsory. However, the puz
 | Course | DH2650 Computer Game Design |
 | Team | 6 People |
 | Tools | Unreal Engine, Blender, Maya |
-| My Role | Gameplay development and modelling of furniture in Maya  |
+| My Role | Modelling in Maya. Implementation of speech bubbles for NPCs and interaction with static objects. Implementation of the whole gameplay by combining these two mechanics along with mechanics like object pickup, NPC movement and sound cues. |
 
 <div class="text-center"><iframe src="https://www.youtube.com/embed/E96hhIJisWo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>

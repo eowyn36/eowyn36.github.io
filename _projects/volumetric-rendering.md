@@ -14,6 +14,6 @@ Project consist of implementation of ray marcher algorithm to perform volumetric
 | Course | DH2323 Computer Graphics and Interaction |
 | Team | 3 People |
 | Tools | Unreal Engine |
-| My Role | Programming the volumetric clouds  |
+| My Role | Implementation of the ray march algorithm and density sampling to create the volumetric clouds. |
 
 <div class="text-center"><iframe src="https://drive.google.com/file/d/0B23k_GkOtf5MMTlpeXJWdXUwQVk/preview" width="640" height="480"></iframe></div>
