@@ -1,6 +1,6 @@
 .catalogue {
   &-item {
-    border-bottom: 1px solid $grey-2;
+    font-size: 90%;
     color: $grey-1;
     display: inline-block;
     padding: 2rem 0;
@@ -49,13 +49,36 @@
   }
 }
 
+.tags{
+  margin-top: 2%;
+  text-align: center;
+
+  .tag-btn {
+    padding: 1%;
+    margin: 0 1%;
+    cursor: pointer;
+    border: 1px solid $default-color;
+    color: $default-color;
+
+    &.active {
+      color: $orange;
+      border-color: $orange;
+    }
+  }
+}
+
 @media (min-width: 600px) {
   .catalogue {
     &-item {
-      width: 31%;
+      width: 29%;
       height: 500px;
       float: left;
-      margin: 0 1%;
+      margin: 0 2%;
     }
+  }
+
+  .tags .tag-btn {
+    padding: .5%;
+    margin: 0 .5%;
   }
 }

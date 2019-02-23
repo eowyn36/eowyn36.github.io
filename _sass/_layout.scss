@@ -23,6 +23,7 @@ footer,
 
   &-container {
     margin: 1rem auto;
+    padding: 0 2%;
     position: relative;
     text-align: center;
   }
@@ -42,7 +43,7 @@ footer,
 
   ul {
     list-style-type: none;
-    margin: 1rem 0 0;
+    margin-bottom: 1.67em;
     padding: 0;
     text-align: center;
   }
@@ -50,9 +51,6 @@ footer,
   li {
     @include transition(all .2s ease-out);
     color: $default-color;
-    //display: inline-block;
-    opacity: .85;
-    //padding: 0 2rem 0 0;
 
     &:last-child {
       padding-right: 0;
@@ -70,24 +68,6 @@ footer,
   }
 }
 
-.tags{
-  margin-top: 2%;
-
-  .tag-btn {
-    float: left;
-    padding: 1%;
-    margin: 0 1%;
-    cursor: pointer;
-    border: 1px solid #e2e2e2;
-    color: #bcbcbc;
-
-    &.active {
-      color: #7d7d7d;
-      border-color: #b2b1b1;
-    }
-  }
-}
-
 @media (min-width: 600px) {
   .nav {
     &-container {
@@ -98,13 +78,8 @@ footer,
       bottom: 0;
       position: absolute;
       text-align: right;
-      right: 0;
+      right: 3%;
     }
-  }
-
-  .tags .tag-btn {
-    padding: .5%;
-    margin: 0 .5%;
   }
 }
 
