@@ -16,8 +16,9 @@ $(document).ready(function() {
 
         if (activeTags == 0)
             $(".catalogue-item").removeClass("hide");
-
     });
 
-
+    fitty(".catalogue-title", {
+        maxSize: 30
+      });
 });

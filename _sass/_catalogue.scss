@@ -1,13 +1,25 @@
 .catalogue {
   &-item {
     font-size: 90%;
-    color: $grey-1;
+    color: $default-shade;
     display: inline-block;
-    padding: 2rem 0;
+    background-color: $lighter-grey;
+    margin: 2%;
+    border-radius: $border-radius;
 
+    &:hover, &:focus{ 
+      background-color: rgba(50,255,180, 0.7);
+      /* background-color: rgba(11,190,179, 0.7); */
+      /* background-color: rgba(62,231,173, 0.8); */
+      color: $default-color;
+    }
     &:hover .catalogue-line,
     &:focus .catalogue-line {
       width: 5rem;
+    }
+    &:hover .catalogue-img,
+    &:focus .catalogue-img {
+      opacity: 1;
     }
 
     p {
@@ -22,6 +34,9 @@
   &-img {
     max-height: 270px;
     overflow: hidden;
+    opacity: 0.8;
+    border-top-left-radius: $border-radius;
+    border-top-right-radius: $border-radius;
 
     img {
       width: 100%;
@@ -41,6 +56,10 @@
     margin: .5rem 0;
   }
 
+  &-text {
+    margin: 0 1rem;
+  }
+
   &-line {
     @include transition(all .3s ease-out);
     border-top: .2rem solid $default-shade;
@@ -57,12 +76,12 @@
     padding: 1%;
     margin: 0 1%;
     cursor: pointer;
-    border: 1px solid $default-color;
-    color: $default-color;
+    background: $lighter-grey;
+    opacity: 0.7;
 
     &.active {
-      color: $orange;
-      border-color: $orange;
+      color: $default-accent;
+      opacity: 1;
     }
   }
 }
@@ -71,14 +90,12 @@
   .catalogue {
     &-item {
       width: 29%;
-      height: 500px;
+      height: 450px;
       float: left;
-      margin: 0 2%;
     }
   }
 
   .tags .tag-btn {
-    padding: .5%;
     margin: 0 .5%;
   }
 }

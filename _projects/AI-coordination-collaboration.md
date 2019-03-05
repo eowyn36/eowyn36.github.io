@@ -17,3 +17,8 @@ Finding optimal positions to place the guards, path planing to cover point of in
 | Tools | Unreal Engine |
 | My Role | Reading the problem files provided as json, creating helper classes, setting the initial values, creating the 3d map with guards and POIs placed. Collision check for POIs and guards. Implementation of formation keeping for number of guards moving together.  Implementations are done mostly in C++ and some in blueprints. |
 
+<div class="text-center">
+<iframe src="https://player.vimeo.com/video/321587334" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<br><br>
+Guards keeping formation while moving towards to goal
+</div>

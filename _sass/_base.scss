@@ -1,6 +1,15 @@
 * {
   @include box-sizing;
 }
+::selection {
+  background: $default-accent;
+  color: $default-color;
+}
+::-moz-selection {
+  background: $default-accent;
+  color: $default-color;
+}
+
 .clearfix:before,
 .clearfix:after { content: " ";  display: table; }
 .clearfix:after { clear: both; }
@@ -52,7 +61,7 @@ h3 {
     font-size: 2rem;
 }
 a {
-  color: $blue;
+  color: $default-accent;
   text-decoration: none;
 }
 

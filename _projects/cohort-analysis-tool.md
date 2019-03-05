@@ -21,4 +21,6 @@ The project consists of 3 teams: Designer team of 3 people, User Experience team
 | Tools | d3.js |
 | My Role | I was one of the three people in the development team. Implementations of the sankey chart and tooltips, connection between the sankey and the parallel coordinates, done in js using d3.js. Cleaning up the provided data and formatting it accordingly. |
 
-<div class="text-center"><iframe src="https://player.vimeo.com/video/211194972?byline=0&portrait=0" width="640" height="360" align="middle" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class="text-center">
+    <iframe src="https://player.vimeo.com/video/211194972?byline=0&portrait=0" width="640" height="360" align="middle" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>

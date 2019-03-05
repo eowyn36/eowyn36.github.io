@@ -16,11 +16,13 @@ title: Home
     <a href="{{ project.url }}" title="{{ project.title }}" class="catalogue-item {{ project.tags | join:' ' }}">
       <div>
         <div class="catalogue-img">{% include image.html path="project-covers" name=project.logo %}</div>
-        <h1 class="catalogue-title">{{ project.title }}</h1>
+        <div class="catalogue-text">
+          <h1 class="catalogue-title">{{ project.title }}</h1>
 
-        <p>
-          {{ project.summary }}
-        </p>
+          <p>
+            {{ project.summary }}
+          </p>
+        </div>
 
       </div>
     </a>
