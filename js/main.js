@@ -3,22 +3,19 @@ $(document).ready(function() {
     
     $(".tag-btn").click(function(){ 
         if($(this).hasClass("active")){
-            $(this).removeClass("active")
-            $("." + $(this).attr('id')).addClass("hide");
-            activeTags--;
+            $(".tag-btn").removeClass("active");
+            $(".catalogue-item").removeClass("hide");
         } else {
-            if (activeTags == 0)
-                $(".catalogue-item").addClass("hide");
-            $("." + $(this).attr('id')).removeClass("hide");
+            $(".tag-btn").removeClass("active");
             $(this).addClass("active");
-            activeTags++;
+
+            $(".catalogue-item").addClass("hide");
+            $("." + $(this).attr('id')).removeClass("hide");
         }
 
-        if (activeTags == 0)
-            $(".catalogue-item").removeClass("hide");
     });
 
     fitty(".catalogue-title", {
         maxSize: 30
-      });
+    });
 });
